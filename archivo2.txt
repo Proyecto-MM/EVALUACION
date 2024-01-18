@@ -1,1 +1,3 @@
 Aseguramiento de la calidad y auditoria de Software
+
+Realizando un seguimiento al archivo2
